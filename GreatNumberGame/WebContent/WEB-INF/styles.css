@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+
+h1,h3{
+        text-align:center;
+    }
+    #wrong{
+        height:300px;
+        margin: 40px auto;
+        width:25%;
+    }
+    .red{
+        background-color:red;
+    }
+    .blue{
+        background-color:blue;
+    }
+    #wrong h1{
+        color:white;
+    }
+    #right{
+        background-color:green;
+        height:300px;
+        margin: 40px auto;
+        width:25%;
+    }
+    #right h1{
+        color:white;
+    }
+    #right a{
+        margin-top:100px;
+        width:25%;
+    }
+    #button{
+        width:10%;
+        margin: 40px auto;
+    }
+    
